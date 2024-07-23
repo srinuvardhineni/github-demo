@@ -7,4 +7,5 @@ git clone <github_url>
 git status
 git add start.txt
 git status
+git commit -m "This file contains commands of git" 
 
