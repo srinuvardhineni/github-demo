@@ -1,0 +1,10 @@
+git version
+git config --global user.name "Srinivasulu Vardhineni"
+git config --global user.email "srinivasulu.vardhineni@gmail.com"
+git config --global --list
+
+git clone <github_url>
+git status
+git add start.txt
+git status
+
